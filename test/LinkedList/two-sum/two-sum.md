@@ -25,7 +25,14 @@
 
 ## Solutions
 
-_No code logged yet._
+### Optimal — Python
+
+> )(n) time · o(n) space
+
+```python
+def test():
+    pass
+```
 
 ---
 <sup>Tracked with **DSA Tracker** · `test · LinkedList` · Generated 2026-05-28</sup>
