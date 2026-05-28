@@ -34,5 +34,14 @@ def test():
     pass
 ```
 
+### Optimal — Javascript
+
+> O(n) time
+
+```javascript
+def test():
+    pass
+```
+
 ---
 <sup>Tracked with **DSA Tracker** · `test · LinkedList` · Generated 2026-05-28</sup>
