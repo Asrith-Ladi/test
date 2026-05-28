@@ -3,4 +3,4 @@ def two_sum(nums, target):
     for i, n in enumerate(nums):
         if target - n in seen:
             return [seen[target - n], i]
-        seen[n] = i #test
+        seen[n] = i
